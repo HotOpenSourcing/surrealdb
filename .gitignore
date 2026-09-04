@@ -45,7 +45,6 @@ Temporary Items
 /.github/scripts/__pycache__/
 
 .idea/
-.vscode/
 .cursor/plans/
 /result
 /bin/
@@ -65,3 +64,5 @@ history.txt
 surrealism/test/demo.surli
 surrealism/test/surrealism
 
+config.bat
+node_modules

@@ -2,6 +2,11 @@
 
 # Simple script that just copies all surrealql file in the repository to the corpus
 
+import utils.net
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import glob;
 import os;
 import shutil
